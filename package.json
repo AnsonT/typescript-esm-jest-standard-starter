@@ -1,5 +1,5 @@
 {
-  "name": "test-journey-guidance",
+  "name": "typescript-esm-jest-standard-starter",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.ts",
